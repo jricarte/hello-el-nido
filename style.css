@@ -1,0 +1,13 @@
+h1 {
+    font-size: 50px;
+    color: green
+}
+
+#houdini-title {
+    color: pink
+}
+
+.p-tags-color {
+    color: blue;
+    text-align: center;
+}
